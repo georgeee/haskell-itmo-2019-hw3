@@ -1,0 +1,5 @@
+# IntellijIDEA
+.idea/
+.ideaHaskellLib/
+*.iml
+out/
