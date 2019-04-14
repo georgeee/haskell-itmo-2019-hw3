@@ -6,3 +6,5 @@ echo read1 echo1
 echo -n echo1 read1
 pwd1="heh"
 cd2=mdem
+echo=a
+echo 1
