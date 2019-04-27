@@ -1,6 +1,4 @@
-lastCommand=$_
 a=/a/
-lastCommand1=$_
 b=/b
 c=4:20
 d=1+1.0
